@@ -21,3 +21,5 @@ A Gauge Chart that updates whenever a new sample is selected.
 ![newplot (1)](https://github.com/imanmalih/Belly-Button-Challenge/assets/128860080/cdcea68c-bab5-4e84-aa42-673dedc80905)
 
 
+## Disclaimer:
+I was asissted with askBCS and external weblinks (google, w3schools etc). 
